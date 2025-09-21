@@ -9,14 +9,6 @@
 # print(result)
 
 
-# from google import genai
-
-# client = genai.Client(api_key="AIzaSyA-TA7A-9XqD17P_n2ExWG0t2vHARx3avg")
-# response = client.models.generate_content(
-#     model="gemini-2.5-flash",
-#     contents="Who is the director of Shrek?"
-# )
-# print(response.text)
 
 import os
 from dotenv import load_dotenv
